@@ -381,6 +381,7 @@
         width: 289px;
         height: 221px;
         border-radius: 20px;
+        border: none;
     }
     .box4{
         display: flex;
