@@ -340,6 +340,7 @@
     }
     .header{
         padding-top: 50px;
+        font-size: 32px;
     }
     .a{
         flex-direction: column;
