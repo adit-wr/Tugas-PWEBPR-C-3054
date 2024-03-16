@@ -381,7 +381,6 @@
         width: 289px;
         height: 221px;
         border-radius: 20px;
-        border: none;
     }
     .box4{
         display: flex;
@@ -448,6 +447,7 @@
         justify-content: center;
         align-items: center;
         background-color: #E9E8E2;
+        border: 0;
     }
     .img5, .img8{
         width: 213px;
